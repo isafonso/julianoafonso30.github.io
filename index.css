@@ -1,0 +1,13 @@
+#bg-image{
+    background-image: url('./Logo-Marca.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 100%;
+}
+/*.image{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    margin-left: 100px;
+}*/
